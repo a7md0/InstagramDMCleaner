@@ -7,6 +7,9 @@ Automated script to delete Instagram direct messages in bulk, delete DM in bulk 
 2. Install Instagram application from Windows Store
 3. Double-click on the script (No need for administrator access)
 4. Navigate to Instagram DM and press **b** to start the script.
-
-#### Press **b** to start/pause/resume the script.
-#### Press **n** to terminate the script.
+  
+  
+Press **b** to start/pause/resume the script.
+  
+  
+Press **n** to terminate the script.
