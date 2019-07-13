@@ -14,6 +14,7 @@
  * MIT License
  * Copyright (c) 2019 a7md0
 */
+
 #InstallMouseHook
 #MaxThreadsPerHotkey 2
 #IfWinActive Instagram
